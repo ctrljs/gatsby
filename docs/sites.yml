@@ -7283,3 +7283,29 @@
   built_by: İbrahim Telman
   built_by_url: https://github.com/ibrahimtelman/
   featured: false
+  - title: Fifteen Seconds Istanbul
+  url: https://fifteenseconds.istanbul/
+  main_url: https://fifteenseconds.istanbul/
+  description: >
+    Landing page of FifteenSeconds Istanbul Event
+  categories:
+    - Event
+    - Conference
+    - Business
+    - Landing Page
+  built_by: İbrahim Telman
+  built_by_url: https://github.com/ibrahimtelman/
+  featured: false
+- title: Ctrl JS
+  url: https://ctrljs.com/
+  main_url:https://ctrljs.com/
+  description: >
+    Website for our Web and App Development Agency
+  categories:
+    - JavaScript
+    - Agency
+    - Web Development
+    - Mobile Development
+  built_by: Ctrl JS
+  built_by_url: https://ctrljs.com/
+  featured: false
